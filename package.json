@@ -1,0 +1,15 @@
+{
+  "name": "serverstartup",
+  "version": "1.0.0",
+  "description": "Node.js study following Node.js Ultimate Beginner’s Guide in 7 Easy Steps by Fireship.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
